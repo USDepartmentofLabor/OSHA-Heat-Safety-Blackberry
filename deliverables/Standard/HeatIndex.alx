@@ -1,0 +1,59 @@
+<loader version="1.0">
+	<application id="HeatIndex">
+		<name >
+			HeatIndex
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0
+		</version>
+		<vendor >
+			BlackBerry Developer
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 BlackBerry Developer
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				HeatIndex.cod
+
+			</files>
+
+		</fileset>
+		<application id="screenreaderdemo">
+			<name >
+				
+			</name>
+			<description >
+				
+			</description>
+			<version >
+				0.9
+			</version>
+			<vendor >
+				Research In Motion Ltd.
+			</vendor>
+			<copyright >
+				Copyright (c) 2011 Research In Motion Ltd.
+			</copyright>
+			<fileset Java="1.54" _blackberryVersion="[6.0.0)">
+				<directory >
+					6.0.0
+				</directory>
+				<files >
+					screenreaderdemo.cod
+
+				</files>
+
+			</fileset>
+
+		</application>
+
+	</application>
+
+</loader>
