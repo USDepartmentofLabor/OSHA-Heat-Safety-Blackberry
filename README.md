@@ -10,3 +10,5 @@ Stay informed and safe in the heat, check your risk level.
 For more information about safety while working in the heat, see OSHA's heat illness webpage, including new online guidance about using the heat index to protect workers.
 
 **At this time, the only supported/compatible devices for the BlackBerry version of the OSHA Heat App are: BlackBerry 9650 and BlackBerry 9850.
+
+The NOAA webservice endpoint was removed at their request. You will need to replace this.
